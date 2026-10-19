@@ -14,3 +14,4 @@ Al exportar el OBJ se activaron UV Coordinates, Normals y Triangulated Mesh; Col
 ## Evidencia
 
 GIF publicado en Discord: https://youtu.be/4gWNrK3nnKU
+
